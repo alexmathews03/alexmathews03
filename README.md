@@ -28,17 +28,6 @@ I love turning ideas into real-world applications — from AI platforms that ext
 
 <br/>
 
-```js
-const alex = {
-    education: "B.Tech CSBS @ Model Engineering College, Kerala",
-    fields: ["Full-Stack Development", "AI/ML", "Game Development"],
-    currentlyBuilding: "AI-powered meeting intelligence platforms",
-    learning: ["Deep Learning", "NLP", "Cloud Architecture", "Unreal Engine"],
-    askMeAbout: ["Web Dev", "AI/ML", "Python", "Django", "JavaScript"],
-    funFact: "I build AI that understands meetings better than most humans do"
-};
-```
-
 ---
 
 <div align="center">
