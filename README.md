@@ -8,7 +8,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-mathai-mathews/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alexmathews03)
-[![Profile Views](https://komarev.com/ghpvc/?username=alexmathews03&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS)](https://github.com/alexmathews03)
 
 </div>
 
