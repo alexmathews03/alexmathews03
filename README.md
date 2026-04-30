@@ -43,24 +43,6 @@ const alex = {
 
 <div align="center">
 
-![Section](https://img.shields.io/badge/WHAT%20I'M%20UP%20TO-0d1117?style=for-the-badge)
-
-</div>
-
-<br/>
-
-| Status | Details |
-|--------|---------|
-| ▸ &nbsp;Working on | **[Quantify](https://github.com/alexmathews03/quantify-meeting-intelligence-hub)** — AI-powered meeting intelligence platform |
-| ▸ &nbsp;Learning | Deep Learning, NLP, Cloud Architecture |
-| ▸ &nbsp;Exploring | Game Development with **Unreal Engine** |
-| ▸ &nbsp;2025 Goals | Contribute to open source ·  Build & ship a game prototype |
-| ▸ &nbsp;Reach me at | **alexmathaimathews.mec@gmail.com** |
-
----
-
-<div align="center">
-
 ![Section](https://img.shields.io/badge/TECH%20STACK-0d1117?style=for-the-badge)
 
 </div>
@@ -69,9 +51,31 @@ const alex = {
 
 <div align="center">
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,py,html,css,cpp,django,nodejs,react,tensorflow,mysql,mongodb,git,github,vscode,unreal&perline=8&theme=dark" />
-</a>
+#### ─── &nbsp;Languages &nbsp;───
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+#### ─── &nbsp;Frameworks & Libraries &nbsp;───
+
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
+
+#### ─── &nbsp;Databases & Tools &nbsp;───
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 </div>
 
@@ -101,20 +105,6 @@ const alex = {
   <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=alexmathews03&repo=Sales-Report-dashboard&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff" />
 </a>
 
-</div>
-
----
-
-<div align="center">
-
-![Section](https://img.shields.io/badge/GITHUB%20STREAK-0d1117?style=for-the-badge)
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=alexmathews03&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=161b22&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" />
 </div>
 
 ---
