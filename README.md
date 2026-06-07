@@ -24,7 +24,7 @@
 
 I'm an aspiring **Software Developer** with a passion for building intelligent systems and a growing curiosity for **game development**. Currently pursuing my **B.Tech in Computer Science & Business Systems** at **Model Engineering College (MEC)**, Kerala.
 
-I love turning ideas into real-world applications, from AI platforms that extract meeting insights to full-stack healthcare systems. When I'm not coding, I'll be enjoying video games and making them on Unreal Engine.
+I love turning ideas into real-world applications — from AI platforms that extract meeting insights to full-stack healthcare systems. When I'm not coding, you'll find me enjoying video games and making them with **Unreal Engine**.
 
 <br/>
 
@@ -81,17 +81,19 @@ I love turning ideas into real-world applications, from AI platforms that extrac
 <div align="center">
 
 <a href="https://github.com/alexmathews03/quantify-meeting-intelligence-hub">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin?username=alexmathews03&repo=quantify-meeting-intelligence-hub&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff" />
+  <img width="400" src="https://github-readme-stats-709klsq7d-alexmathews03s-projects.vercel.app/api/pin?username=alexmathews03&amp;repo=quantify-meeting-intelligence-hub&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;text_color=8b949e&amp;icon_color=58a6ff" />
 </a>&nbsp;&nbsp;
 <a href="https://github.com/alexmathews03/Blood-Bank-Management-System">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin?username=alexmathews03&repo=Blood-Bank-Management-System&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff" />
+  <img width="400" src="https://github-readme-stats-709klsq7d-alexmathews03s-projects.vercel.app/api/pin?username=alexmathews03&amp;repo=Blood-Bank-Management-System&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;text_color=8b949e&amp;icon_color=58a6ff" />
 </a>
 
+<br/><br/>
+
 <a href="https://github.com/alexmathews03/CareerCompass">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin?username=alexmathews03&repo=CareerCompass&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff" />
+  <img width="400" src="https://github-readme-stats-709klsq7d-alexmathews03s-projects.vercel.app/api/pin?username=alexmathews03&amp;repo=CareerCompass&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;text_color=8b949e&amp;icon_color=58a6ff" />
 </a>&nbsp;&nbsp;
 <a href="https://github.com/alexmathews03/Sales-Report-dashboard">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin?username=alexmathews03&repo=Sales-Report-dashboard&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff" />
+  <img width="400" src="https://github-readme-stats-709klsq7d-alexmathews03s-projects.vercel.app/api/pin?username=alexmathews03&amp;repo=Sales-Report-dashboard&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;text_color=8b949e&amp;icon_color=58a6ff" />
 </a>
 
 </div>
