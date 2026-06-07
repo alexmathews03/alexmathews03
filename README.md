@@ -81,20 +81,21 @@ I love turning ideas into real-world applications — from AI platforms that ext
 <div align="center">
 
 <a href="https://github.com/alexmathews03/quantify-meeting-intelligence-hub">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=alexmathews03&repo=quantify-meeting-intelligence-hub&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin?username=alexmathews03&repo=quantify-meeting-intelligence-hub&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff" />
 </a>&nbsp;&nbsp;
 <a href="https://github.com/alexmathews03/Blood-Bank-Management-System">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=alexmathews03&repo=Blood-Bank-Management-System&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin?username=alexmathews03&repo=Blood-Bank-Management-System&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff" />
 </a>
 
 <a href="https://github.com/alexmathews03/CareerCompass">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=alexmathews03&repo=CareerCompass&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin?username=alexmathews03&repo=CareerCompass&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff" />
 </a>&nbsp;&nbsp;
 <a href="https://github.com/alexmathews03/Sales-Report-dashboard">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=alexmathews03&repo=Sales-Report-dashboard&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin?username=alexmathews03&repo=Sales-Report-dashboard&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff" />
 </a>
 
 </div>
+
 
 ---
 
