@@ -81,19 +81,19 @@ I love turning ideas into real-world applications — from AI platforms that ext
 <div align="center">
 
 <a href="https://github.com/alexmathews03/quantify-meeting-intelligence-hub">
-  <img width="400" src="https://github-readme-stats-709klsq7d-alexmathews03s-projects.vercel.app/api/pin?username=alexmathews03&amp;repo=quantify-meeting-intelligence-hub&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;text_color=8b949e&amp;icon_color=58a6ff" />
+  <img width="400" src="https://github-readme-stats-gamma-puce-50.vercel.app/api/pin?username=alexmathews03&amp;repo=quantify-meeting-intelligence-hub&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;text_color=8b949e&amp;icon_color=58a6ff" />
 </a>&nbsp;&nbsp;
 <a href="https://github.com/alexmathews03/Blood-Bank-Management-System">
-  <img width="400" src="https://github-readme-stats-709klsq7d-alexmathews03s-projects.vercel.app/api/pin?username=alexmathews03&amp;repo=Blood-Bank-Management-System&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;text_color=8b949e&amp;icon_color=58a6ff" />
+  <img width="400" src="https://github-readme-stats-gamma-puce-50.vercel.app/api/pin?username=alexmathews03&amp;repo=Blood-Bank-Management-System&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;text_color=8b949e&amp;icon_color=58a6ff" />
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/alexmathews03/CareerCompass">
-  <img width="400" src="https://github-readme-stats-709klsq7d-alexmathews03s-projects.vercel.app/api/pin?username=alexmathews03&amp;repo=CareerCompass&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;text_color=8b949e&amp;icon_color=58a6ff" />
+  <img width="400" src="https://github-readme-stats-gamma-puce-50.vercel.app/api/pin?username=alexmathews03&amp;repo=CareerCompass&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;text_color=8b949e&amp;icon_color=58a6ff" />
 </a>&nbsp;&nbsp;
 <a href="https://github.com/alexmathews03/Sales-Report-dashboard">
-  <img width="400" src="https://github-readme-stats-709klsq7d-alexmathews03s-projects.vercel.app/api/pin?username=alexmathews03&amp;repo=Sales-Report-dashboard&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;text_color=8b949e&amp;icon_color=58a6ff" />
+  <img width="400" src="https://github-readme-stats-gamma-puce-50.vercel.app/api/pin?username=alexmathews03&amp;repo=Sales-Report-dashboard&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;text_color=8b949e&amp;icon_color=58a6ff" />
 </a>
 
 </div>
