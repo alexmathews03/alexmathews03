@@ -24,7 +24,7 @@
 
 I'm an aspiring **Software Developer** with a passion for building intelligent systems and a growing curiosity for **game development**. Currently pursuing my **B.Tech in Computer Science & Business Systems** at **Model Engineering College (MEC)**, Kerala.
 
-I love turning ideas into real-world applications — from AI platforms that extract meeting insights to full-stack healthcare systems. When I'm not coding, you'll find me tinkering with **Unreal Engine** or exploring the latest in deep learning.
+I love turning ideas into real-world applications, from AI platforms that extract meeting insights to full-stack healthcare systems. When I'm not coding, I'll be enjoying video games and making them on Unreal Engine.
 
 <br/>
 
