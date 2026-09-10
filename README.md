@@ -1,11 +1,16 @@
 # Hello, I'm Alex
 
 Welcome to my page:
-  Here you'll find the repo's of projects Ive made --> I like building things that solve my problems — or problems of people I know (so a lot of my projects rely on this) . Trying out interesting things is what drives me, and being able to work on stuff and tweak it to my requirements is always fun.
+
+  Here you'll find the repo's of projects Ive made --> I like building things that solve my problems — or problems of people I know (so a lot of my projects rely on this). 
+  
+  Trying out interesting things is what drives me, and being able to work on stuff and tweak it to my requirements is always fun.
 
   Right now I'm really into AI (especially with how insanely fast its developing)  and what it's actually capable of, and figuring out where I can apply it. 
   
-  Also a HUGE passion of mine is making games -> Video games, It's  been a huge part of my life and in creating the very interest I have developing things. Knowing that I can make video games just like the ones I used to play has me currently both learning and developing my skills in game development. I make games in both Unity and Unreal engine.
+  Also a HUGE passion of mine is making games -> Video games, It's  been a huge part of my life and in creating the very interest I have developing things. 
+  
+  Knowing that I can make video games just like the ones I used to play has me currently both learning and developing my skills in game development. I make games in both Unity and Unreal engine.
 
 ---
 
